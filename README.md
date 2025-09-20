@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdoSMarei.
+- 👋 Hi, I’m Abdullah.
 - 👀 I’m interested in Web Developer MEAN Stack Developer.
 - 🌱 I’m currently learning nestjs .
 - 💞️ I’m looking to collaborate on my amazing project .
